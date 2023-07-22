@@ -11,7 +11,7 @@ translate french start_308c0606:
 
     # "You can go a long time without dreaming of anything."
     "On peut passer un long moment sans rêver de quoi que ce soit."
-    "0"
+
 # game/script.rpy:24
 translate french start_363a4207:
 

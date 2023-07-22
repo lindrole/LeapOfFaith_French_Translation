@@ -664,7 +664,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:618
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "La fonction de soutien vocal dirait : \"[renpy.display.tts.last]\". Appuyez sur 'alt+shift+V' pour désactiver.""
+    new "La fonction de soutien vocal dirait : \"[renpy.display.tts.last]\". Appuyez sur 'alt+shift+V' pour désactiver."
 
     # renpy/common/00preferences.rpy:620
     old "Self-voicing enabled. Press 'v' to disable."

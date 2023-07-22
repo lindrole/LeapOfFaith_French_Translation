@@ -4,7 +4,7 @@
 translate french start_6704d3e2:
 
     # "Dreams are weird."
-    "Les rêves sont bizarres."
+    "Les rêves sont bizarrres."
 
 # game/script.rpy:23
 translate french start_308c0606:

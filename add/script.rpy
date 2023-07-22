@@ -58,7 +58,7 @@ translate french start_2398a281:
 translate french start_d879eb77:
 
     # me "It can't be. She's gone."
-    me "Ça ne peut pas être. Elle est partie."
+    me "C'est impossible. Elle est partie."
 
 # game/script.rpy:45
 translate french start_08c2ff4e:

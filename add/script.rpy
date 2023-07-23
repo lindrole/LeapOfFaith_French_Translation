@@ -580,7 +580,7 @@ translate french ep1_chris_call_home_4d6c3cc1:
 translate french ep1_chris_call_home_b5328d48:
 
     # me "I know, but there is no way we can get tickets to..."
-    me "Je sais, mais il n'y a aucun moyen d'obtenir des billets pour..."
+    me "Je sais, mais il n'y a aucun moyen d'obtenir des billets..."
 
 # game/script.rpy:346
 translate french ep1_chris_call_home_8a806150:
@@ -730,7 +730,7 @@ translate french ep1_chris_call_home_43936483:
 translate french ep1_chris_call_home_6400f618:
 
     # ch "Your hair."
-    ch "Tes cheveu !!!"
+    ch "Tes cheveux !!!"
 
 # game/script.rpy:417
 translate french ep1_chris_call_home_9e191ff3:
@@ -934,7 +934,7 @@ translate french ep1_chris_call_home_787a0982:
 translate french ep1_chris_call_home_e6f0b9c1:
 
     # ch "Yeah, look... I'm going to be honest with you, man."
-    ch "Écoutes... Je vais être honnête avec toi, mec."
+    ch "Écoute... Je vais être honnête avec toi, mec."
 
 # game/script.rpy:486
 translate french ep1_chris_call_home_d3b76e85:
@@ -958,7 +958,7 @@ translate french ep1_chris_call_home_1f4d659a:
 translate french ep1_chris_call_home_f74eab4b:
 
     # ch "And how many girls have you been with since Steph?"
-    ch "Et combien de filles as-tu fréquenté depuis Steph ?"
+    ch "Et combien de filles as-tu fréquentées depuis Steph ?"
 
 # game/script.rpy:493
 translate french ep1_chris_call_home_0160a2ce:
@@ -970,7 +970,7 @@ translate french ep1_chris_call_home_0160a2ce:
 translate french ep1_chris_call_home_bdaa35c4:
 
     # ch "Thank you for proving my point."
-    ch "Merci de confirmer mon point de vue."
+    ch "Merci de confirmer ce que je savais déjà."
 
 # game/script.rpy:496
 translate french ep1_chris_call_home_63dcefdd:
@@ -1012,7 +1012,7 @@ translate french ep1_chris_call_home_ec0b5e36:
 translate french ep1_chris_call_home_b934a6d8:
 
     # ch "But I'm telling you, that is not going to happen. Even if it does, it won't right the past."
-    ch "Mais je te dis : ça n'arrivera pas. Et même si ça se produit, ça ne changera pas le passé."
+    ch "Mais je te le dis : ça n'arrivera pas. Et même si ça se produit, ça ne changera pas le passé."
 
 # game/script.rpy:507
 translate french ep1_chris_call_home_05a28b21:
@@ -1120,7 +1120,7 @@ translate french ep1_chris_call_home_b2c90321:
 translate french ep1_chris_call_home_4c23bfb1:
 
     # ch "I'm not talking about feelings, sex or whatever. Just get out of that cave and enjoy yourself."
-    ch "Je ne parle pas de sentiments, de sexe ou qua sais-je. Sors de cette caverne et amuse-toi un peu."
+    ch "Je ne parle pas de sentiments, de sexe ou peu importe. Sors de cette caverne et amuse-toi un peu."
 
 # game/script.rpy:540
 translate french ep1_chris_call_home_ce198e20:
@@ -1180,7 +1180,7 @@ translate french ep1_chris_call_home_09540c5c:
 translate french ep1_chris_call_home_f541304e:
 
     # uk "So?"
-    uk "Et donc ?"
+    uk "Alors ?"
 
 # game/script.rpy:579
 translate french ep1_chris_call_home_c3a4361d:
@@ -1582,7 +1582,7 @@ translate french afterTalkWithKira_788738ff:
 translate french afterTalkWithKira_7bf76cfc:
 
     # me "Yeah, and there's that."
-    me "Oui, il y a.ça."
+    me "Oui, il y a ça."
 
 # game/script.rpy:709
 translate french afterTalkWithKira_972d2243:
@@ -1606,13 +1606,13 @@ translate french afterTalkWithKira_ba6733e0:
 translate french afterTalkWithKira_bffdf4d4:
 
     # me "You aren't going to tell me, are you?"
-    me "Tu ne vas pas me le dire, n'est-ce pas ?"
+    me "Mais tu me le diras pas."
 
 # game/script.rpy:716
 translate french afterTalkWithKira_1a2c2cec:
 
     # ch "Nope."
-    ch "Que nenni"
+    ch "Nope."
 
 # game/script.rpy:719
 translate french afterTalkWithKira_0aa34660:
@@ -1936,7 +1936,7 @@ translate french afterAssesOrBreasts_309d6e2d:
 translate french afterAssesOrBreasts_69eed653:
 
     # ki "And still you didn't order one?"
-    ki "Et pourtant, tu n'en as pas commandé ?"
+    ki "Et pourtant, t'en as pas pris ?"
 
 # game/script.rpy:872
 translate french afterAssesOrBreasts_86652e23:

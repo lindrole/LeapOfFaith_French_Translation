@@ -1120,7 +1120,7 @@ translate french ep1_chris_call_home_b2c90321:
 translate french ep1_chris_call_home_4c23bfb1:
 
     # ch "I'm not talking about feelings, sex or whatever. Just get out of that cave and enjoy yourself."
-    ch "Je ne parle pas de sentiments, de sexe ou peu importe. Sors de cette caverne et amuse-toi un peu."
+    ch "Je ne parle pas de sentiments, de sexe ou quoi que ce soit. Sors de cette caverne et amuse-toi un peu."
 
 # game/script.rpy:540
 translate french ep1_chris_call_home_ce198e20:

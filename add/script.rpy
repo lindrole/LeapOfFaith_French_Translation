@@ -2248,7 +2248,7 @@ translate french afterAssesOrBreasts_8a00a900:
 translate french afterAssesOrBreasts_91523592:
 
     # me "(Maybe...will...dream...again...zzz)"
-    me "(Peut-être... vais... rêver... encore... zzz)"
+    me "(Peut-être... vais-je... rêver... encore... zzz)"
 
 # game/script.rpy:1035
 translate french afterAssesOrBreasts_6ac17a73:

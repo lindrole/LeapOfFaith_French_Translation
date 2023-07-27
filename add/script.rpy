@@ -598,7 +598,7 @@ translate french ep1_chris_call_home_d9da6b0a:
 translate french ep1_chris_call_home_49598f26:
 
     # ch "You know me, I always get the best stuff."
-    ch "Tu me connais, j'obtiens toujours le meilleur."
+    ch "Tu me connais, j'obtiens toujours le meilleur matos."
 
 # game/script.rpy:352
 translate french ep1_chris_call_home_a519faf4:

@@ -604,7 +604,7 @@ translate french ep1_chris_call_home_49598f26:
 translate french ep1_chris_call_home_a519faf4:
 
     # me "Well, yes. That's why I'm making sure."
-    me "Ouai. C'est pour ça que je demande."
+    me "Ouais. C'est pour ça que je demande."
 
 # game/script.rpy:354
 translate french ep1_chris_call_home_4b12499b:

@@ -328,7 +328,7 @@ translate french start_d0ff58da:
 translate french start_c086febe:
 
     # me "(I'll check out my phone after a quick shower. I'm reeking.)"
-    me "(Je l'ouvrirais après une petite douche. Je pue.)"
+    me "(Je l'ouvrirai après une petite douche. Je pue.)"
 
 # game/script.rpy:147
 translate french start_393bc8c0:

@@ -7634,15 +7634,15 @@ translate french strings:
 
 # game/script.rpy:574
     old "Explain to her that Chris is an idiot [dlcmenu1]"
-    new "Explique-lui que Chris est un idiot [dlcmenu1]"
+    new "Lui expliquer que Chris est un idiot [dlcmenu1]"
 
 # game/script.rpy:574
     old "Try charming her [dlcmenu2]"
-    new "Essaie de la charmer [dlcmenu2]"
+    new "Essaiyer de la charmer [dlcmenu2]"
 
 # game/script.rpy:574
     old "Excuse Chris' joke and compliment her [dlcmenu3] (F)"
-    new "Excuse-toi de la blague de Chris et complimente-la [dlcmenu3] (F)"
+    new "S'excuser pour la blague de Chris et la complimenter [dlcmenu3] (F)"
 
 # game/script.rpy:769
     old "I prefer asses [dlcmenu1]"

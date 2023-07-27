@@ -7626,7 +7626,7 @@ translate french strings:
 
 # game/script.rpy:367
     old "I'm in! [dlcmenu1]"
-    new "Je suis dedans ! [dlcmenu1]"
+    new "J'en suis ! [dlcmenu1]"
 
 # game/script.rpy:367
     old "Not sure. [dlcmenu2]"

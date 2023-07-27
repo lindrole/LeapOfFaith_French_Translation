@@ -1432,7 +1432,7 @@ translate french ep1_chris_call_home_304d61e0:
 translate french ep1_chris_call_home_1aa1e83d:
 
     # uk "And you still find me fascinating?"
-    uk "Et vous me trouvez toujours facinante ?"
+    uk "Et vous me trouvez toujours fascinante ?"
 
 # game/script.rpy:664
 translate french ep1_chris_call_home_5aca2df1:

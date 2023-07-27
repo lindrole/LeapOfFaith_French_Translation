@@ -886,7 +886,7 @@ translate french ep1_chris_call_home_a4553a0a:
 translate french ep1_chris_call_home_57bb7d09:
 
     # me "She's very nice, though."
-    me "Elle a l'air très gentille, néanmoins."
+    me "Elle est très mignonne en tout cas."
 
 # game/script.rpy:473
 translate french ep1_chris_call_home_990b60a5:

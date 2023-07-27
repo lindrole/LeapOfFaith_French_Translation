@@ -250,7 +250,7 @@ translate french start_50fb2c67:
 translate french start_e8f362d3:
 
     # me "(Wait, what? Doorbells?)"
-    me "(Attends, quoi ? Des sonnettes ?"
+    me "(Attends, quoi ? Des sonnettes ?")
 
 # game/script.rpy:112
 translate french start_a3c77315:

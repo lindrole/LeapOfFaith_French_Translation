@@ -7622,7 +7622,7 @@ translate french strings:
 
 # game/script.rpy:204
     old "Let's do the phone tutorial"
-    new "Faisons le tutoriel du téléphone"
+    new "Faire le tutoriel du téléphone"
 
 # game/script.rpy:367
     old "I'm in! [dlcmenu1]"

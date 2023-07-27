@@ -1078,7 +1078,7 @@ translate french ep1_chris_call_home_eee70ce4:
 translate french ep1_chris_call_home_5d3c7d06:
 
     # ch "You know, let me help you a bit. And I'm not taking no for an answer."
-    ch "Tu sais quoi, laisse-moi t'aider un peu. Et je n'accepterai pas de refus."
+    ch "Tu sais quoi, laisse-moi t'aider un peu. Et je ne prendrai pas 'non' comme une réponse."
 
 # game/script.rpy:531
 translate french ep1_chris_call_home_3ccdd71a:

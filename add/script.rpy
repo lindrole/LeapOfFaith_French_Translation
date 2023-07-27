@@ -574,7 +574,7 @@ translate french ep1_chris_call_home_d08c1247:
 translate french ep1_chris_call_home_4d6c3cc1:
 
     # ch "That new place, Metronome, is having a pre-opening tomorrow."
-    ch "Cette nouvelle boite, Metronome, fait une pré-ouverture demain."
+    ch "Cette nouvelle boite, le Metronome, fait une pré-ouverture demain."
 
 # game/script.rpy:344
 translate french ep1_chris_call_home_b5328d48:

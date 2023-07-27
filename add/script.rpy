@@ -922,7 +922,7 @@ translate french ep1_chris_call_home_b863e329:
 translate french ep1_chris_call_home_626f3779:
 
     # me "And my confidence is at an all time low at the moment."
-    me "Et ma confiance est au raz des paquerettes en ce moment."
+    me "Et ma confiance est au ras des paquerettes en ce moment."
 
 # game/script.rpy:482
 translate french ep1_chris_call_home_787a0982:

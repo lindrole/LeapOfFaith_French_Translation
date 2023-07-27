@@ -610,7 +610,7 @@ translate french ep1_chris_call_home_a519faf4:
 translate french ep1_chris_call_home_4b12499b:
 
     # ch "Haha. Don't worry. We were doing some electrical installation there and they gave my boss some tickets."
-    ch "Haha. T'inquiète pas. Nous avons effectué des installations électriques là-bas et mon patron a obtenu quelques billets."
+    ch "Haha. T'inquiète pas. On a réalisé des installations électriques là-bas, et mon patron a obtenu quelques billets."
 
 # game/script.rpy:355
 translate french ep1_chris_call_home_12b8038e:

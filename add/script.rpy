@@ -772,7 +772,7 @@ translate french ep1_chris_call_home_3820771a_1:
 translate french ep1_chris_call_home_a591f3cb:
 
     # ch "You are taking the whole fifty shades of gray thing to a completely new level."
-    ch "Tu pousses le concept des cinquante nuances de gris à un tout autre niveau."
+    ch "Tu pousses le concept de cinquante nuances de 'gris' à un tout autre niveau."
 
 # game/script.rpy:433
 translate french ep1_chris_call_home_d49e2958:

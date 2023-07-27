@@ -1582,7 +1582,7 @@ translate french afterTalkWithKira_788738ff:
 translate french afterTalkWithKira_7bf76cfc:
 
     # me "Yeah, and there's that."
-    me "Oui, il y a ça."
+    me "Ouais, c'est déjà ça."
 
 # game/script.rpy:709
 translate french afterTalkWithKira_972d2243:

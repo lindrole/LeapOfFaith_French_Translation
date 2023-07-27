@@ -1906,7 +1906,7 @@ translate french afterAssesOrBreasts_1ca350d5:
 translate french afterAssesOrBreasts_952fb7a9:
 
     # me "As much as I'd like to stay here with you for the rest of the day, I really should get going."
-    me "Même si j'adorerais rester avec toi le reste de la journée, je doit vraiment y aller."
+    me "Même si j'adorerais rester avec toi le reste de la journée, je dois vraiment y aller."
 
 # game/script.rpy:862
 translate french afterAssesOrBreasts_04362d3c:
